@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924248218730",
+    "project_id": "quicknotes-61120",
+    "storage_bucket": "quicknotes-61120.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924248218730:android:4786c59c8ae8b884e8fe13",
+        "android_client_info": {
+          "package_name": "com.example.quicknotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvRqNvxtvuRmlOUB9w0PwEdUXrMa_ySxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

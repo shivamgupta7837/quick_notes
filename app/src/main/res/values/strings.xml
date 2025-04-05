@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">quickNotes</string>
+    <string name="title_home">Home</string>
+    <string name="title_AI">Dashboard</string>
+    <string name="title_settings">Notifications</string>
+
+
+    <string-array name="dropdown_menu">
+        <item>Personal</item>
+        <item>Ideas</item>
+        <item>None</item>
+    </string-array>
+</resources>
